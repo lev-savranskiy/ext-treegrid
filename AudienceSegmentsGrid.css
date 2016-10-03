@@ -1,0 +1,117 @@
+/*
+ * Ext JS Library 2.0.2
+ * Copyright(c) 2006-2008, Ext JS, LLC.
+ * licensing@extjs.com
+ *
+ * http://extjs.com/license
+ */
+/*
+ * Ext JS Library 2.0.2
+ * Copyright(c) 2006-2008, Ext JS, LLC.
+ * licensing@extjs.com
+ *
+ * http://extjs.com/license
+ */
+
+body {
+	font-family: verdana,tahoma,helvetica;
+    font-size:13px;
+	background-color:#fff !important;
+
+}
+
+.bullet-green {
+    background-image:url(../ext-3.3.1/resources/icons/bullet-green.png) !important;
+}
+.bullet-red {
+    background-image:url(../ext-3.3.1/resources/icons/bullet-red.png) !important;
+}
+
+.bullet-yellow {
+    background-image:url(../ext-3.3.1/resources/icons/bullet-yellow.png) !important;
+}
+
+
+.show {
+    background-image:url(../ext-3.3.1/resources/icons/grid.png) !important;
+}
+.add {
+    background-image:url(../ext-3.3.1/resources/icons/add.png) !important;
+}
+.publish {
+    background-image:url(../ext-3.3.1/resources/icons/publish.png) !important;
+}
+.unpublish {
+    background-image:url(../ext-3.3.1/resources/icons/unpublish.png) !important;
+}
+.edit{
+    background-image:url(../ext-3.3.1/resources/icons/cog_edit.png) !important;
+}
+.copy{
+    background-image:url(../ext-3.3.1/resources/icons/copy.gif) !important;
+}
+.error{
+    background-image:url(../ext-3.3.1/resources/icons/error.png) !important;
+}
+.option {
+    background-image:url(../ext-3.3.1/resources/icons/plugin.gif) !important;
+}
+.delete {
+    background-image:url(../ext-3.3.1/resources/icons/cross.gif) !important;
+}
+.save {
+    background-image:url(../ext-3.3.1/resources/icons/save.gif) !important;
+}
+.user {
+    background-image:url(../ext-3.3.1/resources/icons/user.gif) !important;
+}
+.uploadlist {
+    background-image:url(../ext-3.3.1/resources/icons/arrow-up.gif) !important;
+}
+.settings {
+    background-image:url(../ext-3.3.1/resources/icons/cog_edit.png) !important;
+}
+.refresh {
+    background-image:url(../ext-3.3.1/resources/icons/refresh.png) !important;
+}
+.view_list {
+    /*background: url(../ext-3.3.1/resources/icons/application_view_list.png) no-repeat !important;*/
+    /*padding: 0 0 0 20px !important;*/
+}
+
+
+
+.none{
+    display:none;
+}
+
+.x-tree-node-over, .x-tree-node-el , .x-tree-node-anchor span{
+    cursor: auto !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.floatleft {
+    float: left !important;
+}
+
+.floatright {
+    /*float: right !important;*/
+
+}
+
+.inline {
+display: inline !important;
+}
+
+.astext {
+    font-size: 16px;
+    line-height: 14px;
+    margin:  0 0 0 10px;
+}
+
+.x-tree-node-icon {
+    /*background-image: none  !important;*/
+}
